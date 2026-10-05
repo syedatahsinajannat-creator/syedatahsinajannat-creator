@@ -1,12 +1,4 @@
-<div align="center">
-
-# Hi, I'm Syeda Tahsina Jannat
-
-### Frontend Developer & Product Builder
-
-Turning **“what if?”** into **“here it is.”**
-
-</div>
+<img src="./github-banner.png" width="100%" alt="Syeda Tahsina Jannat GitHub Banner">
 
 ## About Me
 
