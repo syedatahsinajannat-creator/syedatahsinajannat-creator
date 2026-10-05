@@ -30,7 +30,4 @@ A browser-based packaging design platform built to simplify technical packaging 
 **Tech:** React • TypeScript • Fabric.js • Tailwind CSS
 
 ## Connect With Me
-
-## Connect With Me
-
 [LinkedIn](https://www.linkedin.com/in/syeda-tahsina-jannat-bbb245334/?isSelfProfile=true) | [Email](mailto:syedatahsinajannat@gmail.com)
